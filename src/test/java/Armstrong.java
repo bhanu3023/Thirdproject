@@ -3,7 +3,7 @@ public class Armstrong {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int number = 371, originalNumber, remainder, result = 0;
+		int number = 271, originalNumber, remainder, result = 0;
 
         originalNumber = number;
 
